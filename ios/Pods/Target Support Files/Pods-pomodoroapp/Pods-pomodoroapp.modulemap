@@ -1,0 +1,6 @@
+module Pods_pomodoroapp {
+  umbrella header "Pods-pomodoroapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
